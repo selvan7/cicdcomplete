@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(applicationContext," *******Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
 
         Log.d("Test7","Inside onCreate() method")
+        Log.d("Test7","Inside onCreate() method")
+
     }
 
 }
