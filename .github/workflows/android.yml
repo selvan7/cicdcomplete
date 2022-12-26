@@ -3,15 +3,15 @@ name: Android CI
 on:
   push:
    branches:
-      - 'master'
-      - 'Release/**'
-      - 'Development/**'
+      - master
+      - Release
+      - Development
 
   pull_request:
     branches:
-      - 'master'
-      - 'Release/**'
-      - 'Development/**'
+      - master
+      - Release
+      - Development
 
 jobs:
   build:
