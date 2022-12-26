@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
         Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
         Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
 
 
     }
