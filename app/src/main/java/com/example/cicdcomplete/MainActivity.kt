@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Toast.makeText(applicationContext," Test3 Success!!! ", Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext," Test Release Success!!! ", Toast.LENGTH_LONG).show()
+
 
     }
 
