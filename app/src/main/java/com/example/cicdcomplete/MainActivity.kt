@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext," Test7777777 Release Success!!! ", Toast.LENGTH_LONG).show()
 
 
     }
